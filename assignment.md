@@ -24,7 +24,6 @@ Your tasks are as follows:
 4. Create a DataFrame for the Yelp results and Foursquare results. 
 5. Compare the quality of the Yelp and Foursquare API. For your location, which API gives you the most complete information/better coverage? *NOTE:* Your definition of 'coverage' is up to you. It could be simple 'number of POIs in the area', but it could also be something more specific like 'number of reviews per POI', or 'number of different attributes of each POI'.
 
-
 Complete the **yelp_foursquare_EDA.ipynb** notebook to demonstrate how you executed the tasks above.
 
 ## Part 3: Joining Data
@@ -32,7 +31,7 @@ Complete the **yelp_foursquare_EDA.ipynb** notebook to demonstrate how you execu
 1. Join the data from Part 1 with the data from Part 2 to create a new dataframe. 
 2. Use data visualization to explore the data. 
 3. Create your own SQLite database and store the data you've collected on the POIs. **Put some thought into the structure of your database.** We've used and created sqlite3 databases before in the activity [**SQL in Python**](https://data.compass.lighthouselabs.ca/b9e08cd5-68c6-490c-a32b-a66f01bf53e1).
-Validate your data.
+4. Validate your data.
 
 Complete the **joining_data.ipynb** notebook to demonstrate how you executed the tasks above.
 
