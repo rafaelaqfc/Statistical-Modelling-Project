@@ -16,7 +16,7 @@ This step involved exploring the websites of *Foursquare* and *Yelp*, one by one
 Also, it was done a sampling of the population of network citybikes stations with a *for loop* in Python. With that, it was extracted 10% of the population randomnly. To check if both the population and sample had a similar distribution, they were compared with visualization graphs.
 
 ### Step 3: Exploring the data through EDA process before and after joining datasets in order to create our own SQLite3 database
-At this step, the question about which variables could predict the amount of bikes available to be rentend more often in a station started to guide the research. So, while the EDA was being done, the data was been analyzed and interpreted. Questions such *what type of variables are in the data?*, *What variables play different roles in the dataset and might impact the free bikes?*, *what are the variable’s type?*, among others, were important to understand the possible predictor variables of the dependent varibale (*free bikes*).
+At this step, the question about which variables could predict the amount of bikes available to be rentend more often in a station started to guide the research. So, while the EDA was being done, the data was been analyzed and interpreted. Questions such *what type of variables are in the data?*, *What variables play different roles in the dataset and might impact the free bikes?*, *what are the variable’s type?*, among others, were important to understand the possible predictor variables of the dependent variable (*free bikes*).
 
 In regards to the data cleaning and transformation, these were some of the modifications done:
 - Checking missing data, such as NaN, Non-null and empty spaces;
@@ -39,7 +39,7 @@ I had many challenges during this project, such as:
 - Thinking about sampling possibilities to be done from a population of stations in a short time;
 - Making important decisions about the cleanning and transformation of the data, such as, removing duplicates, filling missing values with 0 and others, deleting rows and columns, among others;
 - Parsing the data and creating different datasets to be analyzed;
-- Applying the statisticall analysis before and while building the regression model.
+- Applying the statistical analysis before and while building the regression model.
 
 ## Future Goals
 If I would habe more time, I would explore more the datasets, their patterns and the stations population. As this is a project with many steps to be completed in a few days, the analytical process was left not completely concluded. Likewise, some of the libraries weren't explored as I would like to, so some of the visualizations presented were similar to each other (mostly was used plots, scatterplots and histograms). Also, there are many hypothesis testing theories that I would like to explore and statistical analysis (e.g. Baye's Theorem besides other statistical measures and models) and I din't have the time to study those tools and literature to see if they could be useful to this project.
