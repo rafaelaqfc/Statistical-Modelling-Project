@@ -34,7 +34,7 @@ The results of this project obtained with our statistical analysis, hypothesis t
 Also, the variable *rating* is given as an interval value. If the rating was assigned based on a predefined set of categories or classifications (such as "Excellent", "Very Good", "Fair", "Poor" etc.), and the distance between each category were meaningful - this parameter was deleted due to the absence of information of all the POIs requested -, then this measure of quality combined could give more meaningful insights to this project.
 
 ## Challenges 
-I had many challenges during this project, such as:
+Many challenges were faced during this project, such as:
 - Matching the data retrieved by different APIs;
 - Thinking about sampling possibilities to be done from a population of stations in a short time;
 - Making important decisions about the cleanning and transformation of the data, such as, removing duplicates, filling missing values with 0 and others, deleting rows and columns, among others;
@@ -42,4 +42,4 @@ I had many challenges during this project, such as:
 - Applying the statistical analysis before and while building the regression model.
 
 ## Future Goals
-If I would habe more time, I would explore more the datasets, their patterns and the stations population. As this is a project with many steps to be completed in a few days, the analytical process was left not completely concluded. Likewise, some of the libraries weren't explored as I would like to, so some of the visualizations presented were similar to each other (mostly was used plots, scatterplots and histograms). Also, there are many hypothesis testing theories that I would like to explore and statistical analysis (e.g. Baye's Theorem besides other statistical measures and models) and I din't have the time to study those tools and literature to see if they could be useful to this project.
+If I would have more time, I would explore more the datasets, their patterns and the stations population. As this is a project with many steps to be completed in a few days, the analytical process was left not completely concluded. Likewise, some of the libraries weren't explored as I would like to, so some of the visualizations presented were similar to each other (mostly was used plots, scatterplots and histograms). Also, there are many hypothesis testing theories that I would like to explore and statistical analysis (e.g. Baye's Theorem besides other statistical measures and models) and I din't have the time to study those tools and literature to see if they could be useful to this project.
